@@ -45,7 +45,6 @@ where rn=1
 
 
 --which sub category had highest growth by profit in 2023 compare to 2022
---which sub category had highest growth by profit in 2023 compare to 2022
 with cte AS (
     SELECT 
         sub_category,
